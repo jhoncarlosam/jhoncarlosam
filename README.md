@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello 👋, I'm Jhon
 
-<!--
-**jhoncarlosam/jhoncarlosam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a front end developer, I like to learn things independently and work collaboratively, I studied systems engineering at UFPS.
 
-Here are some ideas to get you started:
+I work with: 
+- [x] HTML
+- [x] CSS
+- [x] JS
+- [x] GIT
+- [ ] React(In my free time I learn React c:)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+> You can follow me on my social networks [IG](https://instagram.com/jhoncarlosam/) or [Twitter](https://twitter.com/jhoncarlosam/) as @jhoncarlosam
