@@ -1,4 +1,4 @@
-# Hello 👋, I'm Jhon
+# Hello 👋, I'm Jhon Carlos Acevedo Mendoza
 
 I am a front end developer from 🇨🇴 Colombia, I like to learn things independently and work collaboratively, I studied systems engineering at UFPS.
 
