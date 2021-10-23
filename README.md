@@ -9,4 +9,4 @@
 > ### You can follow me on my social networks [IG](https://instagram.com/jhoncarlosam/) or [Twitter](https://twitter.com/jhoncarlosam/) as @jhoncarlosam
 
 
-## 📬 contact: jhonacevedomendoza@gmail.com
+## 📬 Contact: jhonacevedomendoza@gmail.com
