@@ -4,7 +4,7 @@ Hi 👋 My name is Jhon Carlos Acevedo Mendoza
 Web Developer
 -------------
 
-I've been learning code since 2020, I started with HTML/CSS and JavaScript, in college I learned the basics of Java, but I really found my passion as a web developer. So now I focus on developing on the MERN stack.
+I've been learning code since 2020, I started with HTML/CSS and JavaScript, in college I learned the basics of Java, but I really found my passion as a web developer. So now I focus on developing on the ANGULAR
 
 * 🌍  I'm based in Colombia
 * 🧠  I'm learning ANGULAR
